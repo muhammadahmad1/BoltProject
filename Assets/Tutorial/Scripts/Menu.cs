@@ -25,6 +25,6 @@ public class Menu : Bolt.GlobalEventListener
         if (BoltNetwork.isServer)
             BoltNetwork.LoadScene("Tutorial1");
         else 
-            BoltNetwork.Connect(UdpKit.UdpEndPoint.Parse(System.IO.File.ReadAllText("server-ip.txt")));
+            BoltNetwork.Connect(UdpKit.UdpEndPoint.Parse("185.12.7.211:44"));
     }
 }
