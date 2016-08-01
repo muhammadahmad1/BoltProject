@@ -22,9 +22,16 @@ public class Menu : Bolt.GlobalEventListener
 
     public override void BoltStartDone()
     {
-        if (BoltNetwork.isServer)
-            BoltNetwork.LoadScene("Tutorial1");
-        else 
-            BoltNetwork.Connect(UdpKit.UdpEndPoint.Parse("185.12.7.211:44"));
+        #if UNITY_ANDROID   
+            if (BoltNetwork.isServer)
+                BoltNetwork.LoadScene("Tutorial1");
+            else
+                BoltNetwork.Connect(UdpKit.UdpEndPoint.Parse("185.12.7.211:44"));
+        #else
+            if (BoltNetwork.isServer)
+                BoltNetwork.LoadScene("Tutorial1");
+            else
+                BoltNetwork.Connect(UdpKit.UdpEndPoint.Parse(System.IO.File.ReadAllText("server-ip.txt")));
+        #endif
     }
 }

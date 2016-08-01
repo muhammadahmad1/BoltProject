@@ -1,13 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CubeBehaviour : Bolt.EntityBehaviour<ICubeState>
+//Bolt.EntityEventListener inherits from EntityBehaviour which inherits from MonoBehaviour
+public class CubeBehaviour : Bolt.EntityEventListener<ICubeState>
 {
+    float resetColorTime;
+    Renderer renderer;
+
     public override void  Attached()
     {
+        renderer = GetComponent<Renderer>();
+
         //update the network property of state ICubeState with the transform of the object 
         //this script is attached to.
-        state.CubeTransform.SetTransforms(transform);
+        //state.CubeTransform.SetTransforms(transform);
+        state.CubeTransform.ChangeTransforms(transform);
 
         if (entity.isOwner)
         {
@@ -32,11 +39,20 @@ public class CubeBehaviour : Bolt.EntityBehaviour<ICubeState>
         {
             transform.position = transform.position + (movement.normalized * speed * BoltNetwork.frameDeltaTime);
         }
+
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            //requires the entity to send the event to -> it will send the 
+            //event to the instance of this *specific* cube to all clients.
+            var flash = FlashColorEvent.Create(entity);
+            flash.FlashColor = Color.red;
+            flash.Send();
+        }
     }
 
     void ColorChanged()
     {
-        GetComponent<Renderer>().material.color = state.CubeColor;
+        renderer.material.color = state.CubeColor;
     }
 
     void OnGUI()
@@ -46,6 +62,20 @@ public class CubeBehaviour : Bolt.EntityBehaviour<ICubeState>
             GUI.color = state.CubeColor;
             GUILayout.Label("@@@");
             GUI.color = Color.white;
+        }
+    }
+
+    public override void OnEvent(FlashColorEvent evnt)
+    {
+        resetColorTime = Time.time + 0.25f;
+        renderer.material.color = evnt.FlashColor;
+    }
+
+    void Update()
+    {
+        if (resetColorTime < Time.time)
+        {
+            renderer.material.color = state.CubeColor;
         }
     }
 }

@@ -6,34 +6,34 @@ Direct3D:
     Vendor:   Intel
     VRAM:     912 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.user.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.user.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.common.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.common.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Mono.Nat.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Mono.Nat.dll into Unity Child Domain
-- Completed reload, in  0.217 seconds
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.006531 ms
+UnloadTime: 1.567863 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 258 -> priority: 1 
+  Thread -> id: 16f0 -> priority: 1 
 Bolt starting with a simulation rate of 60 steps per second
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -58,134 +58,255 @@ Creating Global Behaviour: 'NetworkCallbacks'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: socket created
+8/1/2016 12:41:03 PM: socket created
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Binding physical socket using platform 'DotNetPlatform'
+8/1/2016 12:41:03 PM: Binding physical socket using platform 'DotNetPlatform'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Socket bound to [EndPoint 0.0.0.0:61411 | 61411]
+8/1/2016 12:41:03 PM: Socket bound to [EndPoint 127.0.0.1:27000 | 9151314447111842168]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Physical socket bound to [EndPoint 0.0.0.0:61411 | 61411]
+8/1/2016 12:41:03 PM: Physical socket bound to [EndPoint 127.0.0.1:27000 | 9151314447111842168]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/libc
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/.\libc
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/libc
-7/31/2016 10:07:12 PM: 192.168.1.75 192.168.1.1
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+8/1/2016 12:41:03 PM: 169.254.233.41 0.0.0.0,169.254.233.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: LAN endpoint resolved as [EndPoint 192.168.1.75:61411 | 13882347273003790307]
+8/1/2016 12:41:03 PM: 192.168.1.75 192.168.1.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: physical socket started
+8/1/2016 12:41:03 PM: 25.95.20.219 25.0.0.1,25.95.20.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+8/1/2016 12:41:03 PM: LAN endpoint resolved as [EndPoint 192.168.1.75:27000 | 13882347273003755896]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Writing: PeerConnect
+8/1/2016 12:41:03 PM: physical socket started
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Connecting to [EndPoint 185.12.7.211:44 | 13334041199556689964]
+8/1/2016 12:41:03 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Parsing: PeerConnectResult
+8/1/2016 12:41:03 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Received PeerConnectResult From [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+Loading Bolt.SceneLoadState (Tutorial1)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Sending To [EndPoint 159.8.0.207:25000 | 11459410140902482344]
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.480324 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 284.
+Total: 3.210588 ms (FindLiveObjects: 0.018111 ms CreateObjectMapping: 0.018111 ms MarkObjects: 3.152631 ms  DeleteObjects: 0.021130 ms)
+
+8/1/2016 12:41:04 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Writing: ProbeEndPoint
+8/1/2016 12:41:04 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Sending To [EndPoint 159.8.0.207:26000 | 11459410140902483344]
+Found 0 Scene Objects
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Writing: ProbeEndPoint
+Attached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+8/1/2016 12:41:05 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Writing: GetZeusInfo
+8/1/2016 12:41:05 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Connected to master server at [EndPoint 159.8.0.207:24000 | 11459410140902481344], initiating NAT probe
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+8/1/2016 12:41:06 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Parsing: ProbeEndPointResult
+8/1/2016 12:41:06 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Received ProbeEndPointResult From [EndPoint 159.8.0.207:25000 | 11459410140902482344]
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll into Unity Child Domain
+- Completed reload, in  0.152 seconds
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+8/1/2016 12:41:08 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Parsing: ProbeEndPointResult
+8/1/2016 12:41:08 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Received ProbeEndPointResult From [EndPoint 159.8.0.207:26000 | 11459410140902483344]
+8/1/2016 12:41:11 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: NAT Probe: SupportsEndPointPreservation:YES
+8/1/2016 12:41:11 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Socket bound to [EndPoint 0.0.0.0:61412 | 61412]
+UnloadTime: 2.667843 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 21c8 -> priority: 1 
+8/1/2016 12:41:14 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Sending To [EndPoint 83.117.113.138:61411 | 6013837714942652387]
+8/1/2016 12:41:14 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Writing: ProbeHairpin
+8/1/2016 12:41:18 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Parsing: GetZeusInfoResult
+8/1/2016 12:41:18 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Received GetZeusInfoResult From [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+Bolt starting with a simulation rate of 60 steps per second
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Connect to [EndPoint 185.12.7.211:44 | 13334041199556689964] accepted
+Creating Global Behaviour: 'BoltConsole'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: Correct connection id #2 received from server
+Creating Global Behaviour: 'BoltPoll'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:12 PM: [EndPoint 185.12.7.211:44 | 13334041199556689964] connected
+Creating Global Behaviour: 'BoltSend'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'BoltSceneLoader'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'NetworkCallbacks'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: socket created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Binding physical socket using platform 'DotNetPlatform'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Socket bound to [EndPoint 0.0.0.0:60854 | 60854]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Physical socket bound to [EndPoint 0.0.0.0:60854 | 60854]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+8/1/2016 12:41:20 PM: 169.254.233.41 0.0.0.0,169.254.233.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: 192.168.1.75 192.168.1.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: 25.95.20.219 25.0.0.1,25.95.20.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: LAN endpoint resolved as [EndPoint 192.168.1.75:60854 | 13882347273003789750]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: physical socket started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Writing: PeerConnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Connecting to [EndPoint 127.0.0.1:27000 | 9151314447111842168]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: [EndPoint 127.0.0.1:60854 | 9151314447111876022] connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Connect to [EndPoint 127.0.0.1:27000 | 9151314447111842168] accepted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: Correct connection id #2 received from server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:20 PM: [EndPoint 127.0.0.1:27000 | 9151314447111842168] connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Created [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] on [Connection [EndPoint 127.0.0.1:60854 | 9151314447111876022]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -201,29 +322,41 @@ Loading Bolt.SceneLoadState (Tutorial1)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: 3411
+FRAME RESET: 996
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.597811 ms
+UnloadTime: 2.198752 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 287.
-Total: 2.659391 ms (FindLiveObjects: 0.022337 ms CreateObjectMapping: 0.016300 ms MarkObjects: 2.609282 ms  DeleteObjects: 0.010866 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 5.569930 ms (FindLiveObjects: 0.049505 ms CreateObjectMapping: 0.031393 ms MarkObjects: 5.464883 ms  DeleteObjects: 0.022337 ms)
 
-FRAME FORWARD: 10
+FRAME RESET: 25
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: 16
+FRAME RESET: -16
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: 15
+FRAME FORWARD: 11
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: -4
+FRAME FORWARD: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:22 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:22 PM: Writing: PeerConnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME FORWARD: 11
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -235,11 +368,15 @@ Attached [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Created [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] on [Connection [EndPoint 185.12.7.211:44 | 13334041199556689964]]
+Created [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] on [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME FORWARD: 11
+Attached [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] (Token: NULL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Received [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] from [Connection [EndPoint 127.0.0.1:60854 | 9151314447111876022]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -247,15 +384,71 @@ Attached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Received [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] from [Connection [EndPoint 185.12.7.211:44 | 13334041199556689964]]
+Received [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] from [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: 19
+FRAME FORWARD: 10
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: -6
+FRAME FORWARD: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME STALL: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME RESET: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME RESET: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:26 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:26 PM: Writing: PeerConnect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME STALL: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:31 PM: Could not connect to master server at [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:31 PM: Disconnecting from masterserver at [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Behaviour not available in this dispatcher, ignoring call to Remove.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8/1/2016 12:41:36 PM: [EndPoint 127.0.0.1:27000 | 9151314447111842168] disconnected
+ 
+(Filename: C:/bu8ld/1/2e0u16 1y:4u1l:/3rtPfMct /gEnnerattd127.0.0.1:60854 |U91i513144n7D1e8ug6i022ng .gen.cpe ted
+ 
+(Fil
+
+ename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -267,38 +460,34 @@ Direct3D:
     Vendor:   Intel
     VRAM:     912 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.user.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\bolt.user.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.common.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.common.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\udpkit.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Mono.Nat.dll (this message is harmless)
-Loading E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\Mono.Nat.dll into Unity Child Domain
-- Completed reload, in  0.159 seconds
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Unity Projects\BoltGame\Tutorial1\game_Data\Managed\System.dll (this message is harmless)
-FRAME STALL: 2
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\bolt.user.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.common.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\udpkit.dll into Unity Child Domain
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\Mono.Nat.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Muhammad\Documents\BoltProject\Tutorial1\game_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.042992 ms
+UnloadTime: 2.393754 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1ecc -> priority: 1 
+  Thread -> id: 1f70 -> priority: 1 
 Bolt starting with a simulation rate of 60 steps per second
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
@@ -323,148 +512,76 @@ Creating Global Behaviour: 'NetworkCallbacks'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: socket created
+8/1/2016 12:42:21 PM: socket created
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Binding physical socket using platform 'DotNetPlatform'
+8/1/2016 12:42:21 PM: Binding physical socket using platform 'DotNetPlatform'
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Socket bound to [EndPoint 0.0.0.0:61413 | 61413]
+8/1/2016 12:42:21 PM: Socket bound to [EndPoint 0.0.0.0:56211 | 56211]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Physical socket bound to [EndPoint 0.0.0.0:61413 | 61413]
+8/1/2016 12:42:21 PM: Physical socket bound to [EndPoint 0.0.0.0:56211 | 56211]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/libc
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/.\libc
-Fallback handler could not load library E:/Unity Projects/BoltGame/Tutorial1/game_Data/Mono/libc
-7/31/2016 10:07:37 PM: 169.254.233.41 0.0.0.0,169.254.233.1
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/.\libc
+Fallback handler could not load library C:/Users/Muhammad/Documents/BoltProject/Tutorial1/game_Data/Mono/libc
+8/1/2016 12:42:21 PM: 169.254.233.41 0.0.0.0,169.254.233.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: 192.168.1.75 192.168.1.1
+8/1/2016 12:42:21 PM: 192.168.1.75 192.168.1.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: 25.95.20.219 25.0.0.1,25.95.20.1
+8/1/2016 12:42:21 PM: LAN endpoint resolved as [EndPoint 192.168.1.75:56211 | 13882347273003785107]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: LAN endpoint resolved as [EndPoint 192.168.1.75:61413 | 13882347273003790309]
+8/1/2016 12:42:21 PM: physical socket started
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: physical socket started
+8/1/2016 12:42:21 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+8/1/2016 12:42:21 PM: Writing: PeerConnect
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Writing: PeerConnect
+8/1/2016 12:42:21 PM: Connecting to [EndPoint 127.0.0.1:27000 | 9151314447111842168]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Connecting to [EndPoint 185.12.7.211:44 | 13334041199556689964]
+8/1/2016 12:42:21 PM: [EndPoint 127.0.0.1:56211 | 9151314447111871379] connected
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Parsing: PeerConnectResult
+8/1/2016 12:42:21 PM: Connect to [EndPoint 127.0.0.1:27000 | 9151314447111842168] accepted
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:37 PM: Received PeerConnectResult From [EndPoint 159.8.0.207:24000 | 11459410140902481344]
+8/1/2016 12:42:21 PM: Correct connection id #3 received from server
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:38 PM: Sending To [EndPoint 159.8.0.207:25000 | 11459410140902482344]
+8/1/2016 12:42:21 PM: [EndPoint 127.0.0.1:27000 | 9151314447111842168] connected
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+(Filename: C:/buildslave/unity/build/artifacts/generCted/commrneruteime[EUnityyn ineDebugBindings.gen.cpp Line: 42)
 
-7/31/2016 10:07:38 PM: Writing: ProbeEndPoint
+[NetworkId 0-0-0-1-0-0-0-1] CubeState] on [Connection [EndPoint 127.0.0.1:56211 | 9151314447111871379]]
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtiAe/UsigyEndi ide3 froinsirnegs
+.
+gFilename: C:/ 42)
 
-7/31/2016 10:07:38 PM: Sending To [EndPoint 159.8.0.207:26000 | 11459410140902483344]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Writing: ProbeEndPoint
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Sending To [EndPoint 159.8.0.207:24000 | 11459410140902481344]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Writing: GetZeusInfo
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Connected to master server at [EndPoint 159.8.0.207:24000 | 11459410140902481344], initiating NAT probe
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Parsing: ProbeEndPointResult
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Received ProbeEndPointResult From [EndPoint 159.8.0.207:25000 | 11459410140902482344]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Parsing: ProbeEndPointResult
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Received ProbeEndPointResult From [EndPoint 159.8.0.207:26000 | 11459410140902483344]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: NAT Probe: SupportsEndPointPreservation:YES
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Socket bound to [EndPoint 0.0.0.0:61414 | 61414]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Sending To [EndPoint 83.117.113.138:61413 | 6013837714942652389]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Writing: ProbeHairpin
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Parsing: GetZeusInfoResult
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Received GetZeusInfoResult From [EndPoint 159.8.0.207:24000 | 11459410140902481344]
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Connect to [EndPoint 185.12.7.211:44 | 13334041199556689964] accepted
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: Correct connection id #3 received from server
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-7/31/2016 10:07:38 PM: [EndPoint 185.12.7.211:44 | 13334041199556689964] connected
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Assigned id 3 from server
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+lave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Assigned id 3 from server
  
@@ -474,17 +591,21 @@ Loading Bolt.SceneLoadState (Tutorial1)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME RESET: 4908
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.600830 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 6.959696 ms (FindLiveObjects: 0.086935 ms CreateObjectMapping: 0.062786 ms MarkObjects: 6.776165 ms  DeleteObjects: 0.031393 ms)
+
+FRAME RESET: 24
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.480086 ms
+FRAME RESET: -13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 287.
-Total: 5.355006 ms (FindLiveObjects: 0.033808 ms CreateObjectMapping: 0.032600 ms MarkObjects: 5.246940 ms  DeleteObjects: 0.040449 ms)
-
-FRAME RESET: 25
+FRAME FORWARD: 10
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -496,7 +617,11 @@ Attached [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Created [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] on [Connection [EndPoint 185.12.7.211:44 | 13334041199556689964]]
+FRAME FORWARD: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Created [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] on [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -504,11 +629,11 @@ FRAME FORWARD: 11
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Attached [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] (Token: NULL)
+Attached [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Received [Entity [NetworkId 0-0-0-1-0-0-0-2] CubeState] from [Connection [EndPoint 185.12.7.211:44 | 13334041199556689964]]
+Received [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] from [Connection [EndPoint 127.0.0.1:56211 | 9151314447111871379]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -516,47 +641,43 @@ Attached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] (Token: NULL)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Received [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] from [ConAettached [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeSt996e]]
- 
-(Filen: eU:L)
-/ ui
-ldilave/unitC:/buildslave/unity/build/artimmon/runtime/UnityEngineDebugBindnngt.gen.gpp eiDee 4ug
-
-indings.gen.cpp Line: 42)
-
-Received [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState] from [Connection [EndPoint 185.12.7.211:44 | 13334041199556689964]]
+Received [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState] from [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME FORWARD: 10
+FRAME FORWARD: 11
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME STALL: 2
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME STALL: 2
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME STALL: 0
+Behaviour not available in this dispatcher, ignoring call to Remove.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME FORWARD: 10
+8/1/2016 12:42:31 PM: [End8oi1nt2016 12:42::5621M1:| E1n13P4oint 127.0.0.1d2s7000 c e1
+ 
+(Filename: C:/buildslave/ueid
+/
+(uild/amei acts/uinerateeduncto/builduarime/UnitgEneiatDd/bummonBindings/gnitnE.gcnpDe Lini:d n2g
+s
+.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-3] CubeState]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME FORWARD: 10
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-1] CubeState]
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-FRAME FORWARD: 10
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-FRAME FORWARD: 10
+Behaviour not available in this dispatcher, ignoring call to Remove.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
